@@ -35,8 +35,6 @@
 
 ```
 notebooks/sprint18_cargapronto.ipynb   # полный проект: EDA → кластеризация → модели → выводы
-data/                                   # ds_s18_orders.csv, ds_s18_customers.csv
-task/задача.docx                        # постановка задачи заказчика
 requirements_freeze.txt                 # зафиксированные версии окружения
 ```
 
